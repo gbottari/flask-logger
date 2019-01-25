@@ -7,5 +7,5 @@ setup(name='simple-flask-logger',
       author='Giulio Bottari',
       author_email='giuliobottari@gmail.com',
       license='MIT',
-      packages=['logger'],
+      packages=['SimpleFlaskLogger'],
       zip_safe=False)
