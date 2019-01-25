@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='flask-logger',
+setup(name='simple-flask-logger',
       version='0.1',
       description='A simple logger for Flask applications.',
       url='https://github.com/gbottari/flask-logger',
