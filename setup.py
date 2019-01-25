@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='simple-flask-logger',
-      version='0.1',
+      version='0.2',
       description='A simple logger for Flask applications.',
       url='https://github.com/gbottari/flask-logger',
       author='Giulio Bottari',
